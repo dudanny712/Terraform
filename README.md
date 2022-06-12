@@ -3,8 +3,10 @@
 Sample Terraform template
 
 Commands to run the .tf files
-
-terraform init
-terraform plan
-terraform apply
-terraform destroy
+<ul>
+  
+<li>terraform init</li>
+<li>terraform plan</li>
+<li>terraform apply</li>
+<li>terraform destroy</li>
+</ul>
